@@ -109,12 +109,12 @@ For further information on these vulnerabilities, visit [HackerOne](https://hack
 
 WRITEUPS
 
-SSRF — Exploitation 02: https://infosecwriteups.com/ssrf-exploitation-02-b682de16594?source=rss------bug_bounty-5
+SSRF — Exploitation 02: https://infosecwriteups.com/ssrf-exploitation-02-b682de16594
 TikTok's pixel/sdk.js leaks current URL from websites using postMessage: https://hackerone.com/reports/1598749
-My findings on Hack U.S Program: https://falcon319.medium.com/my-findings-on-hack-u-s-program-43b692a5c057?source=rss------bug_bounty-5
-Let’s hack websites and make money!: https://medium.com/@Tanweer_Ali/lets-hack-websites-and-make-money-cbf837d6be1e?source=rss------bug_bounty-5
-Blind SSRF due to img tag injection in page form: https://medium.com/@imhunterand/blind-ssrf-due-to-img-tag-injection-in-page-form-3938c6ea032?source=rss------bug_bounty-5
-Abusing Open Redirects to get an Account Takeover: https://snizi.medium.com/abusing-open-redirects-to-get-an-account-takeover-b1f5c2585dd8?source=rss------bug_bounty-5
+My findings on Hack U.S Program: https://falcon319.medium.com/my-findings-on-hack-u-s-program-43b692a5c057
+Let’s hack websites and make money!: https://medium.com/@Tanweer_Ali/lets-hack-websites-and-make-money-cbf837d6be1e
+Blind SSRF due to img tag injection in page form: https://medium.com/@imhunterand/blind-ssrf-due-to-img-tag-injection-in-page-form-3938c6ea032
+Abusing Open Redirects to get an Account Takeover: https://snizi.medium.com/abusing-open-redirects-to-get-an-account-takeover-b1f5c2585dd8
 Blind SSRF on platform.dash.cloudflare.com Due to Sentry misconfiguration: https://hackerone.com/reports/1467044
 CVE-2022-35252: control code in cookie denial of service: https://hackerone.com/reports/1613943
 Enable 2Fa verification without verifying email leads account takeover: https://hackerone.com/reports/1618021
