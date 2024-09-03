@@ -110,23 +110,41 @@ For further information on these vulnerabilities, visit [HackerOne](https://hack
 WRITEUPS
 
 SSRF — Exploitation 02: https://infosecwriteups.com/ssrf-exploitation-02-b682de16594
+
 TikTok's pixel/sdk.js leaks current URL from websites using postMessage: https://hackerone.com/reports/1598749
+
 My findings on Hack U.S Program: https://falcon319.medium.com/my-findings-on-hack-u-s-program-43b692a5c057
+
 Let’s hack websites and make money!: https://medium.com/@Tanweer_Ali/lets-hack-websites-and-make-money-cbf837d6be1e
+
 Blind SSRF due to img tag injection in page form: https://medium.com/@imhunterand/blind-ssrf-due-to-img-tag-injection-in-page-form-3938c6ea032
+
 Abusing Open Redirects to get an Account Takeover: https://snizi.medium.com/abusing-open-redirects-to-get-an-account-takeover-b1f5c2585dd8
+
 Blind SSRF on platform.dash.cloudflare.com Due to Sentry misconfiguration: https://hackerone.com/reports/1467044
+
 CVE-2022-35252: control code in cookie denial of service: https://hackerone.com/reports/1613943
+
 Enable 2Fa verification without verifying email leads account takeover: https://hackerone.com/reports/1618021
+
 Password reset tokens sent to CSP reporting endpoints: https://hackerone.com/reports/1626281
+
 Best 26 cybersecurity: YouTube channels: https://medium.com/@rajeevranjancom/best-26-cybersecurity-youtube-channels-8a1d643ac484?source=rss------bug_bounty-5
+
 Saving more than 100,000 website from a Watering Hole attack: https://med-mahmoudi26.medium.com/saving-more-than-100-000-website-from-a-watering-hole-attack-a22f63a37f94?source=rss------bug_bounty-5
+
 ‘PTN’ infosec monthly #3— InfoSec Updates: https://medium.com/pentesternepal/ptn-infosec-monthly-3-infosec-updates-c28273328f78?source=rss------bug_bounty-5
+
 Rotation IP Address with Burpsuite: https://medium.com/@mil3anism/rotation-ip-address-with-burpsuite-24b315bbc4a5?source=rss------bug_bounty-5
+
 OAuth 2.0 (Introduction and Exploitation Part I)Explained By Hashar Mujahid: https://infosecwriteups.com/oauth-2-0-introduction-and-exploitation-part-i-explained-by-hashar-mujahid-262f9c59de6c?source=rss------bug_bounty-5
+
 What is API And Why It’s Important to know: https://medium.com/@tmgsecurity/what-is-api-and-why-its-important-to-know-c1a5b565d8b5?source=rss------bug_bounty-5
+
 All about CORS Misconfiguration.: https://sl4x0.medium.com/all-about-cors-misconfiguration-b8f1831e9f18?source=rss------bug_bounty-5
+
 An accidental IDOR story that got me 1st acknowledgment from Nciipc: https://medium.com/@gautamnangia/an-accidental-idor-story-that-got-me-1st-acknowledgment-from-nciipc-9aa97788b741?source=rss------bug_bounty-5
+
 AngularJS Client-Side Template Injection: The orderBy Filter.: https://medium.com/@xJay/angularjs-client-side-template-injection-the-orderby-filter-20002ca2a0e8?source=rss------bug_bounty-5
 Awesome OSINT: https://medium.com/@reconshell.com/awesome-osint-7afe5cc56bdc?source=rss------bug_bounty-5
 Any expired reset password link can still be used to reset the password: https://hackerone.com/reports/1615790
